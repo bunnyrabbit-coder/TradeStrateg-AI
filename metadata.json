@@ -1,0 +1,5 @@
+{
+  "name": "TradeStrateg AI",
+  "description": "An AI-powered application to evaluate and analyze stock market trading strategies across various markets, providing simulated predictions, potential upsides, and downsides.",
+  "requestFramePermissions": []
+}
